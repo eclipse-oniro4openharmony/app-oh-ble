@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "C:\\Users\\pmandes\\.ohos\\config\\default_BLEClient_oG64ViUAB5JxZglB-X_p_ELtDdvg4nOOleKRjxRTAVg=.cer",
+          "certpath": "C:\\Users\\pmandes\\.ohos\\config\\default_oh-BLEClient_FmXoMSQcGhTQdmeLaqAtjKiY8Z7dgKEnKX47V0J4fko=.cer",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001BFDBF12319488440172051548C8142AE8042A12A9289B3AE2A6999A66923862E9418AA873A763EF",
-          "profile": "C:\\Users\\pmandes\\.ohos\\config\\default_BLEClient_oG64ViUAB5JxZglB-X_p_ELtDdvg4nOOleKRjxRTAVg=.p7b",
+          "keyPassword": "0000001B60F4FF56A6EC6D92E88DD21B89FB07759DA306D5F2B9A128FB49C6F6FC537A92C024C777B49C01",
+          "profile": "C:\\Users\\pmandes\\.ohos\\config\\default_oh-BLEClient_FmXoMSQcGhTQdmeLaqAtjKiY8Z7dgKEnKX47V0J4fko=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\pmandes\\.ohos\\config\\default_BLEClient_oG64ViUAB5JxZglB-X_p_ELtDdvg4nOOleKRjxRTAVg=.p12",
-          "storePassword": "0000001B6020C24921F5C11AE1F49D4FA4217D888BF79187B6D4D25B3BAAD7DD68CB36952B6AAD94ADAEE7"
+          "storeFile": "C:\\Users\\pmandes\\.ohos\\config\\default_oh-BLEClient_FmXoMSQcGhTQdmeLaqAtjKiY8Z7dgKEnKX47V0J4fko=.p12",
+          "storePassword": "0000001B14A09D73D69A74B966C23D3C44FAA022A647944C08CBE3752D1BDA3CEE3B1C185D52218DDD4C9D"
         }
       }
     ],
